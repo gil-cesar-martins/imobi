@@ -14,9 +14,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-b(+7z0pbcir8(34dwf6(-1@(dv7u-x@+)4ap%i%()k8o!k4hct'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['*'] #imobi-gcmsj.herokuapp.com
+ALLOWED_HOSTS = ['imobi-gcmsj.herokuapp.com'] #imobi-gcmsj.herokuapp.com
 
 
 # Application definition
